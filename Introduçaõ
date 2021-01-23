@@ -1,0 +1,30 @@
+Nesse curso vou simular um banco e o cadastro de cliente e amnipulação de dados
+Criar um sitema onde eu vou cadastrar um cliente e ele possa fazer suas operações
+
+Como observamos o programa do cadastro do cliente tem muitas repetiçoes entao para facilitar seria bacana a criaçao de um molde
+Dai surgiu o ideia de Classe no JS
+Declaração:
+          class NomeDaClasse{
+                          objeto;
+                          objeto;
+                          objeto;
+          }
+
+const NomeDoTermo = new NomeDaClasse();
+
+NomeDoTermo.objeto = expecifica;
+NomeDoTermo.objeto = expecifica;
+NomeDoTermo.objeto = expecifica;
+
+Funções ou Metodos:
+    Voce pode utilizar ela dentro das classe com o objetivo de realizar alguma ação 
+    exemplo a operação sacar um dinheiro 
+    NomeDaFunçao(termo que vai alterar){
+        Dever que vai realizar
+        
+        return  valor;
+    }
+ 
+ 
+ Uma obs importante foi de atributos privados "#"
+    
